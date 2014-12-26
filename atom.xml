@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[なおしむ論]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-12-26T06:51:27.023Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[なおしむ]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[はじめて]]></title>
+    <link href="http://yoursite.com/2014/12/26/first/"/>
+    <id>http://yoursite.com/2014/12/26/first/</id>
+    <published>2014-12-26T06:41:58.000Z</published>
+    <updated>2014-12-26T06:46:59.000Z</updated>
+    <content type="html"><![CDATA[<p>hexoってゆう静的サイトジェネレータでブログ作ってみた。<br>どや。来年はこのブログでいこうと思います。</p>
+<p>てかhexoの使い方がよくわからん。<br>とりあえずテーマで使われてるjqueryは抜いてみたけど<br>影響ないっぽい。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>hexoってゆう静的サイトジェネレータでブログ作ってみた。<br>どや。来年はこのブログでいこうと思います。</p>
+<p>てかhexoの使い方がよくわからん。<br>とりあえずテーマで使われてるjqueryは抜いてみたけど<br>影響ないっぽい。</p>
+]]>
+    </summary>
+    
+      <category term="tweet" scheme="http://yoursite.com/tags/tweet/"/>
+    
+  </entry>
+  
+</feed>
